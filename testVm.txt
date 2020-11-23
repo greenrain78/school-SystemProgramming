@@ -1,2 +1,3 @@
 test git on ubunti
-ok notebook test clear
+ok notebook test clear add
+hi
