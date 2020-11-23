@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <unistd.h>
+#include <stdlib.h>
+
 void *thread_routine(void *arg)
 {
     pid_t my_pid;
