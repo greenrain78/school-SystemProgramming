@@ -3,3 +3,4 @@ git destop은 버릴거야
 test git on ubunti
 ok notebook test clear add
 hi
+sd
